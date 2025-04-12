@@ -23,6 +23,37 @@
 
 ---
 
+<h3 align="center">💻 Competitive Programming Profiles</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/tushargupta12312021/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/tusharguptjug3/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://www.codechef.com/users/tushargupta122" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🔗 Let's Connect 🤝</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tushar-gupta-546790296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXl4SkxMdDg1RllTWWc3UnBaVUZ6X0NnS2drUXxBQ3Jtc0trSVpTTC00RjJjNDhFcHU0OXo1dW9aMG9nMzFwS0tkbWtLeWpNT3hGRGhTeWdxXzBjNXlVXzE3ZmV0QW80NjhCNi1OQTlTaFVlQmdzSE04bkNlOUJxY2ViOEsybFd5end1eDBCWFVRaUxFYWJSVHREZw&q=https%3A%2F%2Fwww.instagram.com%2Ftushargupta_8055_%2F&v=D_7nYiD2cC4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@tushargupta2150?si=w_lRhktBRfyE9Eq1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
