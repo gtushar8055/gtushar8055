@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center">💻 Competitive Programming Profiles</h3>
+<h3 align="center">💻 Coding Profiles</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/tushargupta12312021/" target="_blank">
@@ -35,6 +35,26 @@
   <a href="https://www.codechef.com/users/tushargupta122" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+</p>
+
+---
+<h3 align="center">💼 Some of My Works</h3>
+
+<p align="center">
+  🚧 Projects I'm proud of! Check them out:
+</p>
+
+<ul align="center">
+  <li><a href="https://gtushar8055.github.io/ComfyStepsShoes/" target="_blank">🌐 ComfySteps - Shoe Brand Website</a></li>
+  <li><a href="https://gtushar8055.github.io/Gadgetsforyou/" target="_blank">🌐 GadgetHub - React Based Mini Project</a></li>
+  <li><a href="https://gtushar8055.github.io/learnzee/" target="_blank">🌐 Learnezee - The Edtech Website </a></li>
+  <li><a href="https://gtushar8055.github.io/ImageGenerator/" target="_blank">🌐 Random Image Generaotr</a></li>
+</ul>
+
+<h4 align = "center">Many More Projects are waiting for you ..... Checkout my Repositories</h4>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -53,6 +73,7 @@
   </a>
 </p>
 
+---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
