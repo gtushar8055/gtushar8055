@@ -92,7 +92,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBvZndqZnNmam5remk3M3lhcHpmaGR4NXV0MzZyY3MwanhuNno2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
 </p>
 
 <p align="center">⭐️ Thank you for visiting my profile! Let's grow together! 🚀</p>
