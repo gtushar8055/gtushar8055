@@ -21,6 +21,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,python,git" alt="Tech Stack" />
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" style="margin:6px;" title="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="40" style="margin:6px;" title="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" style="margin:6px;" title="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40" style="margin:6px;" title="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" style="margin:6px;" title="Scikit-learn" />
+</p>
+
+
+
+
+
 ---
 
 <h3 align="center">💻 Coding Profiles</h3>
