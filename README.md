@@ -77,7 +77,7 @@
   <a href="https://www.linkedin.com/in/tushar-gupta-546790296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXl4SkxMdDg1RllTWWc3UnBaVUZ6X0NnS2drUXxBQ3Jtc0trSVpTTC00RjJjNDhFcHU0OXo1dW9aMG9nMzFwS0tkbWtLeWpNT3hGRGhTeWdxXzBjNXlVXzE3ZmV0QW80NjhCNi1OQTlTaFVlQmdzSE04bkNlOUJxY2ViOEsybFd5end1eDBCWFVRaUxFYWJSVHREZw&q=https%3A%2F%2Fwww.instagram.com%2Ftushargupta_8055_%2F&v=D_7nYiD2cC4" target="_blank">
+  <a href="https://www.instagram.com/tushargupta_8055_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://youtube.com/@tushargupta2150?si=w_lRhktBRfyE9Eq1" target="_blank">
