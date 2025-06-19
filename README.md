@@ -83,7 +83,11 @@
   <a href="https://youtube.com/@tushargupta2150?si=w_lRhktBRfyE9Eq1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  <a href="mailto:tushargupta12312021@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 
 ---
 
