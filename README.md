@@ -57,11 +57,11 @@
 </p>
 
 <ul align="center">
+  <li><a href="https://vyapaar360.vercel.app/" target="_blank">🌐Vyapaar360 - A 360 degree Solution for Modern Indian Businesses</a></li>
   <li><a href="https://gadgethub-frontend.vercel.app/" target="_blank">🌐GadgetHub - Fully Functional MERN Website</a></li>
-  <li><a href="https://gtushar8055.github.io/ComfyStepsShoes/" target="_blank">🌐 ComfySteps - Shoe Brand Website</a></li>
   <li><a href="https://gtushar8055.github.io/Gadgetsforyou/" target="_blank">🌐 GadgetHub - React Based Mini Project</a></li>
+  <li><a href="https://gtushar8055.github.io/ComfyStepsShoes/" target="_blank">🌐 ComfySteps - Shoe Brand Website</a></li>
   <li><a href="https://gtushar8055.github.io/learnzee/" target="_blank">🌐 Learnezee - The Edtech Website </a></li>
-  <li><a href="https://gtushar8055.github.io/ImageGenerator/" target="_blank">🌐 Random Image Generaotr</a></li>
 </ul>
 
 <h4 align = "center">Many More Projects are waiting for you ..... Checkout my Repositories</h4>
@@ -75,6 +75,9 @@
 <h3 align="center">🔗 Let's Connect 🤝</h3>
 
 <p align="center">
+  <a href="https://portfolio-psi-nine-84.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
   <a href="https://www.linkedin.com/in/tushar-gupta-546790296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
